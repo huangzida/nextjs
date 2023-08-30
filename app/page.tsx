@@ -108,7 +108,8 @@ export default function Home() {
           </p>
         </a>
       </div> */}
-      <div style={{fontSize: '100px'}}>加油，老相！</div>
+      <div style={{fontSize: '100px'}}>自达的网站！！！</div>
+      {/* <div style={{fontSize: '100px'}}>加油，老相！</div> */}
     </main>
   )
 }
